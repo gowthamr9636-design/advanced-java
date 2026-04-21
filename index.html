@@ -1,14 +1,13 @@
-
  <!DOCTYPE html>
 <html>
 <head>
-    <title>Cookie Visit Counter</title>
+    <title>Factorial Calculator</title>
 </head>
 <body>
-    <h2>Enter Your Details</h2>
-    <form action="VisitServlet" method="POST">
-        Name: <input type="text" name="user_name" required>
-        <input type="submit" value="Submit">
+    <h2>Factorial Finder</h2>
+    <form action="calculateFactorial" method="POST">
+        Enter a Number: <input type="number" name="num" min="0" required>
+        <input type="submit" value="Calculate">
     </form>
 </body>
 </html>
