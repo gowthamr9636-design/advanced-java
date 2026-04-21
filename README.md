@@ -2,35 +2,64 @@
 java lab programs
 
 
-lab1a o/p: https://github.com/gowthamr9636-design/advanced-java/blob/main/lab1a.png
+lab 1 a o/p link: https://github.com/gowthamr9636-design/advanced-java/blob/main/lab1a.png
 
 
-lab1 b p1 : https://github.com/gowthamr9636-design/advanced-java/blob/main/ColorSorter.png
+lab 1 b p1 o/p link : https://github.com/gowthamr9636-design/advanced-java/blob/main/ColorSorter.png
 
 
-lab1 b p2 : https://github.com/gowthamr9636-design/advanced-java/blob/main/ColorSearch.png
+lab 1 b p2 o/p link : https://github.com/gowthamr9636-design/advanced-java/blob/main/ColorSearch.png
 
 
-lab 1 b p3 : https://github.com/gowthamr9636-design/advanced-java/blob/main/ColorManager.png
+lab 1 b p3 o/p link : https://github.com/gowthamr9636-design/advanced-java/blob/main/ColorManager.png
 
 
-lab  1 b p4 : https://github.com/gowthamr9636-design/advanced-java/blob/main/ColorList.png
+lab  1 b p4 o/p link : https://github.com/gowthamr9636-design/advanced-java/blob/main/ColorList.png
 
 
-lab 1 c p4 : https://github.com/gowthamr9636-design/advanced-java/blob/main/p4.png
+lab 1 c p4 o/p link: https://github.com/gowthamr9636-design/advanced-java/blob/main/p4.png
 
 
-lab 1 c p5 : https://github.com/gowthamr9636-design/advanced-java/blob/main/p5.png
+lab 1 c p5 o/p link : https://github.com/gowthamr9636-design/advanced-java/blob/main/p5.png
 
 
-lab 2 a : https://github.com/gowthamr9636-design/advanced-java/blob/main/lab2.p1.png
+lab 2 a o/p link : https://github.com/gowthamr9636-design/advanced-java/blob/main/lab2.p1.png
 
 
-lab2b : https://github.com/gowthamr9636-design/advanced-java/blob/main/lab2.p2.png
+lab 2 b o/p link : https://github.com/gowthamr9636-design/advanced-java/blob/main/lab2.p2.png
 
 
-lab3a : https://github.com/gowthamr9636-design/advanced-java/blob/main/StringBuildingFunctions.png
+lab 3 a o/p link 1 : https://github.com/gowthamr9636-design/advanced-java/blob/main/StringBuildingFunctions.png
 
+
+
+lab 3 b  o/p link 1 :https://github.com/gowthamr9636-design/advanced-java/blob/main/3b1.jpeg
+
+
+lab 3 b o/p link 2 : https://github.com/gowthamr9636-design/advanced-java/blob/main/3b2.jpeg
+
+
+lab 3 b o/p link 3 : https://github.com/gowthamr9636-design/advanced-java/blob/main/3b3.jpeg
+
+
+lab 3 b o/p link 4 : https://github.com/gowthamr9636-design/advanced-java/blob/main/3b4.jpeg
+
+
+lab 3 c o/p link 1 :https://github.com/gowthamr9636-design/advanced-java/blob/main/3c1.jpeg
+
+
+lab 3 c o/p link 2 :https://github.com/gowthamr9636-design/advanced-java/blob/main/3c2.jpeg
+
+
+lab 3 c o/p link 3 :https://github.com/gowthamr9636-design/advanced-java/blob/main/3c3.jpeg
+
+
+lab 3 c o/p link 4 :https://github.com/gowthamr9636-design/advanced-java/blob/main/3c4.jpeg
+
+
+lab 3 c o/p link 5 :https://github.com/gowthamr9636-design/advanced-java/blob/main/3c5.jpeg
+
+ 
 
 lab 4a o/p link :https://github.com/gowthamr9636-design/advanced-java/blob/main/4a.jpeg
 
