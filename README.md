@@ -17,10 +17,10 @@ lab 1 b p3 o/p link : https://github.com/gowthamr9636-design/advanced-java/blob/
 lab  1 b p4 o/p link : https://github.com/gowthamr9636-design/advanced-java/blob/main/ColorList.png
 
 
-lab 1 c p4 o/p link: https://github.com/gowthamr9636-design/advanced-java/blob/main/p4.png
+lab 1 c p6 o/p link: https://github.com/gowthamr9636-design/advanced-java/blob/main/p4.png
 
 
-lab 1 c p5 o/p link : https://github.com/gowthamr9636-design/advanced-java/blob/main/p5.png
+lab 1 c p7 o/p link : https://github.com/gowthamr9636-design/advanced-java/blob/main/p5.png
 
 
 lab 2 a o/p link : https://github.com/gowthamr9636-design/advanced-java/blob/main/lab2.p1.png
