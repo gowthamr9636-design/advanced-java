@@ -9,3 +9,5 @@ lab1bp3 : https://github.com/gowthamr9636-design/advanced-java/blob/main/ColorMa
 lab1bp4 : https://github.com/gowthamr9636-design/advanced-java/blob/main/ColorList.png
 lab1cp4 : https://github.com/gowthamr9636-design/advanced-java/blob/main/p4.png
 lab1cp5 : https://github.com/gowthamr9636-design/advanced-java/blob/main/p5.png
+
+lab2a : https://github.com/gowthamr9636-design/advanced-java/blob/main/lab2.p1.png
