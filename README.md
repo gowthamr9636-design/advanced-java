@@ -32,11 +32,30 @@ lab2b : https://github.com/gowthamr9636-design/advanced-java/blob/main/lab2.p2.p
 lab3a : https://github.com/gowthamr9636-design/advanced-java/blob/main/StringBuildingFunctions.png
 
 
+lab 4a o/p link :https://github.com/gowthamr9636-design/advanced-java/blob/main/4a.jpeg
 
+
+lab 4b o/p link :https://github.com/gowthamr9636-design/advanced-java/blob/main/4b.jpeg
+
+
+lab 4c o/p link :https://github.com/gowthamr9636-design/advanced-java/blob/main/4c.jpeg
+
+
+lab 5a o/p link : https://github.com/gowthamr9636-design/advanced-java/blob/main/5a.jpeg
+
+
+lab 5b o/p link :https://github.com/gowthamr9636-design/advanced-java/blob/main/5b.jpeg
+
+
+lab 5c o/p link :https://github.com/gowthamr9636-design/advanced-java/blob/main/5c.jpeg
+
+
+lab 5d o/p link:https://github.com/gowthamr9636-design/advanced-java/blob/main/5d.jpeg
 
 
 
 lab 6 a  o/p link 1 :https://github.com/gowthamr9636-design/advanced-java/blob/main/6a/6a1.jpeg
+
 
 
 lab 6 a o/p link 2  :https://github.com/gowthamr9636-design/advanced-java/blob/main/6a/6a2.jpeg
