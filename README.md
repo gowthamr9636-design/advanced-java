@@ -34,7 +34,13 @@ lab3a : https://github.com/gowthamr9636-design/advanced-java/blob/main/StringBui
 
 
 
+lab 10 a o/p link 1 : https://github.com/gowthamr9636-design/advanced-java/blob/main/10a/10a1.png
+
+
+lab 10 a o/p link 2 :https://github.com/gowthamr9636-design/advanced-java/blob/main/10a/10a2.png
 
 
 lab 10 b o/p link 1 : https://github.com/gowthamr9636-design/advanced-java/blob/main/10b/10b1.png
+
+
 lab 10 b o/p link 2 : https://github.com/gowthamr9636-design/advanced-java/blob/main/10b/10b2.png 
